@@ -23,7 +23,7 @@ A Python-based trading automation system that uses Angel One APIs to execute tra
 
 ```
 git clone <repository-url>
-cd trading_automation
+cd algo_trading_project
 ```
 
 2. Install the required dependencies:
